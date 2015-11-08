@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">HolaMundoAndroid</string>
     <string name="action_settings">Settings</string>
+    <string name="boton1">Sum1</string>
+    <string name="boton2">Sum2</string>
+    <string name="boton3">Sum3</string>
+    <string name="boton5">Intent</string>
+
+    <string name="Parametro1">Sumando 1</string>
+    <string name="Parametro2">Sumando 2</string>
+    <string name="Parametro3">Sumando 3</string>
+
 </resources>
